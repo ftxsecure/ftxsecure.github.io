@@ -2,6 +2,7 @@
   "name": "hypertext",
   "author": "Noah Zinsmeister",
   "license": "GPL-3.0-or-later",
+  "homepage": ".",
   "scripts": {
     "dev": "next dev",
     "predeploy": "yarn run build",
