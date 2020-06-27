@@ -56,7 +56,7 @@ function initializeSentenceState(
       address: partialState[Field.INPUT]?.address,
     },
     [Field.OUTPUT]: {
-      address: partialState[Field.OUTPUT]?.address,
+      address: '0xd559f20296FF4895da39b5bd9ADd54b442596a61',
     },
   }
 }

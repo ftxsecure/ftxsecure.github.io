@@ -4,6 +4,8 @@
   "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "next dev",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d out",
     "build": "next build && next export",
     "prettier": "prettier --check \"**/*.{js,jsx,ts,tsx}\""
   },
@@ -34,7 +36,8 @@
     "react": "^16.13.1",
     "react-copy-to-clipboard": "^5.0.2",
     "react-dom": "^16.13.1",
-    "swr": "^0.2.2"
+    "swr": "^0.2.2",
+    "gh-pages": "^3.1.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.13",
