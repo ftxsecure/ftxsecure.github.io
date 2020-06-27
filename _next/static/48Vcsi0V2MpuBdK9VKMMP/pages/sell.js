@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{aemP:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return r}));var u=t("q1tI"),a=t.n(u),o=t("yN6g"),i=a.a.createElement;function r(){return i(o.a,{buy:!1})}},eMRa:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/sell",function(){return t("aemP")}])}},[["eMRa",1,0,3,5,2,4,6]]]);

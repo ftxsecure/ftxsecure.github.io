@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{HeS4:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/buy",function(){return u("UGFk")}])},UGFk:function(n,t,u){"use strict";u.r(t),u.d(t,"default",(function(){return w}));var e=u("q1tI"),o=u.n(e),i=u("yN6g"),r=o.a.createElement;function w(){return r(i.a,{buy:!0})}}},[["HeS4",1,0,3,5,2,4,6]]]);

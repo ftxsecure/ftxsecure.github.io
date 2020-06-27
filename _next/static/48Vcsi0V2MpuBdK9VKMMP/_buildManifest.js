@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/buy":[a],"/sell":[a]}}("static\u002Fchunks\u002F3a9a7df980bb4e1ca1f24e1157ee3ec6410e9eb4.3434fadcbf4563472d56.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
